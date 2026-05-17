@@ -6,8 +6,9 @@ The dashboard helps analyze hospital emergency room data and provides meaningful
 
 I learned this dashboard design and healthcare data analysis concepts with guidance from **Satish Dhawale**.
 
-## Dataset Used
-- <a href-"https://github.com/golukumarsha/Hospital-Emergency-Room-dashboard/blob/main/Golu%20kumar.xlsx"> Dataset Viwe</a>
+## 📂 Dataset Used
+
+[📥 Download Dataset](https://github.com/golukumarsha/Hospital-Emergency-Room-dashboard/blob/main/Hospital_Emergency_Room_Data.xlsx)
 
 ---
 
